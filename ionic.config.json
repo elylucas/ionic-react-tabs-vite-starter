@@ -1,0 +1,7 @@
+{
+  "name": "ionic-6-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
